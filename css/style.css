@@ -1,0 +1,35 @@
+select      {
+            display: block;
+}
+
+.textAlignC {
+
+            text-align : center;
+
+}
+
+.backgrounimage {
+  background-image: url(tumblr_lg7h9gpbtP1qap9qio1_500.jpeg);
+}
+
+.maxWidth500    {
+            max-width: 500px;
+}
+
+.marginLR       {
+            margin-left: auto;
+            margin-right: auto;
+}
+
+.marginLR10     {
+            margin-left:10%;
+            margin-right: 10%;
+}
+.marginLR25     {
+            margin-left: 25%;
+            margin-right: 25%;
+}
+
+.margT15        {
+            margin-top : 15px;
+}
